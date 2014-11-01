@@ -1,0 +1,7 @@
+# tex temp files
+*.aux
+*.log
+*.out
+*.synctex.gz
+*.toc
+.DS_Store
