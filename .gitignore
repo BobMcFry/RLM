@@ -6,3 +6,5 @@
 *.toc
 .DS_Store
 *.pdf
+*.bbl
+*.blg
